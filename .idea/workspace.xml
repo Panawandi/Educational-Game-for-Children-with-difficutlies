@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a6cfcab-6abc-4a9e-822c-592eed3eda2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LearningApplication/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1txXvWHXffEYybVhKkEhg9c8wZg" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Computer Game Programming/Game Assignment dp1906345" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Language" />
+      <recent name="Map" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Map" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Support.Connect" />
+      <module name="Individual Capstone Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearningApplication.Game" />
+      <module name="Individual Capstone Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Support.SoundManager" />
+      <module name="Individual Capstone Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.World" />
+      <module name="Individual Capstone Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorldMapArea (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.WorldMapArea" />
+      <module name="Individual Capstone Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.World" />
+        <item itemvalue="Application.WorldMapArea (1)" />
+        <item itemvalue="Application.Connect" />
+        <item itemvalue="Application.SoundManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a6cfcab-6abc-4a9e-822c-592eed3eda2b" name="Default Changelist" comment="" />
+      <created>1623711946842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623711946842</updated>
+      <workItem from="1623711948091" duration="871000" />
+      <workItem from="1624273906042" duration="2444000" />
+      <workItem from="1624290970713" duration="20672000" />
+      <workItem from="1626722299000" duration="4881000" />
+      <workItem from="1626889688289" duration="68000" />
+      <workItem from="1627059072667" duration="531000" />
+      <workItem from="1630754220884" duration="39000" />
+      <workItem from="1631121882865" duration="1209000" />
+      <workItem from="1631292905136" duration="1864000" />
+      <workItem from="1631565469550" duration="2506000" />
+      <workItem from="1632059674615" duration="307000" />
+      <workItem from="1634235513754" duration="1181000" />
+      <workItem from="1634295402757" duration="22428000" />
+      <workItem from="1635990927249" duration="16653000" />
+      <workItem from="1636562250604" duration="38548000" />
+      <workItem from="1637509321041" duration="54505000" />
+      <workItem from="1639661334333" duration="736000" />
+      <workItem from="1640019724178" duration="13000" />
+      <workItem from="1641665625732" duration="1899000" />
+      <workItem from="1641992927427" duration="29215000" />
+      <workItem from="1643048147773" duration="12241000" />
+      <workItem from="1643833031820" duration="18715000" />
+      <workItem from="1644420367320" duration="4758000" />
+      <workItem from="1645009157399" duration="13021000" />
+      <workItem from="1646343784767" duration="503000" />
+      <workItem from="1646862234594" duration="9069000" />
+      <workItem from="1648645510081" duration="40044000" />
+      <workItem from="1649780240371" duration="35453000" />
+      <workItem from="1650466980660" duration="21390000" />
+      <workItem from="1650585365388" duration="19162000" />
+      <workItem from="1651152338972" duration="12844000" />
+      <workItem from="1651712680346" duration="1794000" />
+      <workItem from="1654955717977" duration="92000" />
+      <workItem from="1678867835892" duration="944000" />
+      <workItem from="1694617793853" duration="1885000" />
+      <workItem from="1697453798100" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.imageio.IIOException" package="javax.imageio" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
